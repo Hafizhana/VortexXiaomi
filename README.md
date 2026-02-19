@@ -18,7 +18,7 @@
 
 • I'm not responsible for any damaged phone and bootlooping. This module is Beta!
 
-• **MEDIATEK ONLY, not Snapdragon.**
+• **MEDIATEK** Only, not Snapdragon.
 
 • **Don't combine this module with other performance module.**
 
