@@ -4,7 +4,7 @@
 ## **Supported Root**
  >[Magisk](https://github.com/topjohnwu/Magisk)
 
-Instruction:
+## **Instruction**
 
 • Download and flash the zip in Magisk.
 
@@ -14,7 +14,7 @@ Instruction:
 
 • Enjoy.
 
-Disclaimer:
+## **Disclaimer**
 
 • I'm not responsible for any damaged phone and bootlooping. This module is Beta!
 
@@ -23,4 +23,4 @@ Disclaimer:
 • **Don't combine this module with other performance module.**
 
 ## **License**
-**VortexXiaomi** is open-sourced software licensed under the [MIT License](https://github.com/Hafizhana/VortexXiaomi/blob/main/LICENSE)
+**VortexXiaomi** is open-sourced software licensed under the [MIT License](https://github.com/Hafizhana/VortexXiaomi/blob/main/LICENSE).
