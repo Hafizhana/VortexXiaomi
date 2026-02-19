@@ -21,3 +21,6 @@ Disclaimer:
 • **MEDIATEK ONLY, not Snapdragon.**
 
 • **Don't combine this module with other performance module.**
+
+## **License**
+**VortexXiaomi** is open-sourced software licensed under the [
