@@ -23,4 +23,4 @@ Disclaimer:
 • **Don't combine this module with other performance module.**
 
 ## **License**
-**VortexXiaomi** is open-sourced software licensed under the [
+**VortexXiaomi** is open-sourced software licensed under the [MIT License](https://github.com/Hafizhana/VortexXiaomi/blob/main/LICENSE)
